@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	242938506	sfx_ui_button_onClick			\Default Work Unit\sfx_ui_button_onClick	
+	3338492480	sfx_ui_button_onHover			\Default Work Unit\sfx_ui_button_onHover	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	371789919	Abstract1	C:\Unity Projects\Personal\VR-Tutorial-Valem\VR-Tutorial-Valem_WwiseProject\.cache\Windows\SFX\Abstract1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Abstract1		132548
+	703719333	Modern4	C:\Unity Projects\Personal\VR-Tutorial-Valem\VR-Tutorial-Valem_WwiseProject\.cache\Windows\SFX\Modern4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Modern4		119464
+

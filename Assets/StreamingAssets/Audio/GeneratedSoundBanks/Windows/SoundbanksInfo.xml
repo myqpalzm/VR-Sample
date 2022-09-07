@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Unity Projects\Personal\VR-Tutorial-Valem\VR-Tutorial-Valem_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Unity Projects\Personal\VR-Tutorial-Valem\VR-Tutorial-Valem_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Unity Projects\Personal\VR-Tutorial-Valem\VR-Tutorial-Valem_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Unity Projects\Personal\VR-Tutorial-Valem\VR-Tutorial-Valem_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="1376010313">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="4268595049">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="242938506" Name="sfx_ui_button_onClick" ObjectPath="\Events\Default Work Unit\sfx_ui_button_onClick" MaxAttenuation="100." DurationType="OneShot" DurationMin="0.676417" DurationMax="0.676417">
+					<IncludedMemoryFiles>
+						<File Id="703719333" Language="SFX">
+							<ShortName>Modern4.wav</ShortName>
+							<Path>SFX\Modern4_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3338492480" Name="sfx_ui_button_onHover" ObjectPath="\Events\Default Work Unit\sfx_ui_button_onHover" MaxAttenuation="100." DurationType="OneShot" DurationMin="0.75059" DurationMax="0.75059">
+					<IncludedMemoryFiles>
+						<File Id="371789919" Language="SFX">
+							<ShortName>Abstract1.wav</ShortName>
+							<Path>SFX\Abstract1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
